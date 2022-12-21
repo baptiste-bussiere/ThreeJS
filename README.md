@@ -5,15 +5,9 @@ Premier projet utilisant la technologie ThreeJS.
 ## Screenshot
 
 ### Page d'accueil 
-![App Screenshot](https://github.com/baptiste-bussiere/webde/blob/v1.3/screenshots/1.png?raw=true)
+![App Screenshot](https://github.com/baptiste-bussiere/ThreeJS-Cube/blob/main/three.png?raw=true)
 
 
-### Page Membres
-![App Screenshot](https://github.com/baptiste-bussiere/webde/blob/v1.3/screenshots/2.png?raw=true)
-
-
-### Page Projet
-![App Screenshot](https://github.com/baptiste-bussiere/webde/blob/v1.3/screenshots/3.png?raw=true)
 
 
 ## Techonolgies utilisé
